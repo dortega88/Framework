@@ -1,0 +1,5 @@
+c:\users\daniel.ortega\documents\visual studio 2012\Projects\Framework\Framework\bin\Framework.dll
+c:\users\daniel.ortega\documents\visual studio 2012\Projects\Framework\Framework\bin\Framework.pdb
+c:\users\daniel.ortega\documents\visual studio 2012\Projects\Framework\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+c:\users\daniel.ortega\documents\visual studio 2012\Projects\Framework\Framework\obj\Debug\Framework.dll
+c:\users\daniel.ortega\documents\visual studio 2012\Projects\Framework\Framework\obj\Debug\Framework.pdb
